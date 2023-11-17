@@ -9,7 +9,7 @@ function App() {
           <h3>Pilih Link :</h3>
         <a
           className="App-link"
-          href="Lat1.js"
+          href="/lat1"
           rel="noopener noreferrer"
         >
           Menampilkan Teks
